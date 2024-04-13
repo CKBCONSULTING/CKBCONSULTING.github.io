@@ -458,7 +458,7 @@ button > input{
     margin-bottom: var(--mb-4);
 }
 .footer__social{
-    margin-bottom: var(--mb-2);
+    margin-bottom:  var(--first-color);
 }
 .footer__icon{
     font-size: 1.5rem;
