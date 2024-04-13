@@ -462,7 +462,7 @@ button > input{
 }
 .footer__icon{
     font-size: 1.5rem;
-    color: #999;
+    color: #fff;
     margin: 0 var(--mb-2)
 }
 .footer__icon:hover{
@@ -518,7 +518,7 @@ button > input{
     }
     .home__social-icon{
         margin-bottom: 0;
-        margin-right: var(--mb-4);
+        margin-right: var(--first-color);
     }
     .home__img{
         width: 457px;
